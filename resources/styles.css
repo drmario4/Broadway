@@ -26,3 +26,23 @@ a {
   font-size: 18px;
   color: white;
 }
+
+h2 {
+  font-family: helvetica;
+  font-size: 32px;
+  font-weight: bold;
+  color: black;
+}
+
+h3 {
+  font-family: helvetica;
+  font-size: 23px;
+  font-weight: bold;
+  color: black;
+}
+
+  h4 {
+    font-family: helvetica;
+    font-size: 14px;
+    font-weight:300;
+}
