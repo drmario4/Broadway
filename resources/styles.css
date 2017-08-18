@@ -1,0 +1,28 @@
+
+/*  Styles for the BROADWAY project of Codecademy */
+
+body {
+  text-align: center;
+}
+
+/* first image displayed of building */
+.hero {
+  background-image:
+   url("the-flatiron-building.png");
+   text-align: center;
+   color: white;
+}
+
+h1 {
+  font-family: helvetica;
+  font-size: 70px;
+  font-weight: bold;
+  color: white;
+}
+
+/* For links in the top building pic */
+a {
+  font-family: helvetica;
+  font-size: 18px;
+  color: white;
+}
