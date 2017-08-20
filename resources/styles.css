@@ -13,6 +13,29 @@ body {
    color: white;
 }
 
+.twitter {
+  background-color: lightgray;
+}
+
+.footer {
+  background-color: dimgray;
+  font-family: Helvetica;
+  font-size: 11px;
+  color: white;
+  text-align: left;
+  font-weight: 300;
+}
+
+.btn-nav {
+  font-size: 18px;
+  color: white;
+  padding-right: 10px;
+}
+
+div {
+  display: block;
+}
+
 h1 {
   font-family: helvetica;
   font-size: 70px;
